@@ -1,0 +1,6 @@
+	In continuare voi prezenta implementarea temei1 de la SD.
+	In vederea rezolvarii acestei teme am considerat o clasa Hashtable. In interiorul acestei clase am creat in mod dinamic un vector 
+de structuri Set. Clasa Hashtable are dimensiunea size si functia de hash este denumita hash, acesti parametri se transmit in momentul initalizarii 
+unui obiect de tipul Hashtable. Structura set reprezinta structura unui set din interiorul unui Hashtable.
+	In main citesc pe rand datele din ram.in intr-un vector de structuri de tip Ram. Dupa citesc pe rand operatiile ce trebuiesc executate si 
+apelez, in functie de operatie, una dintre functiile read() sau write();
